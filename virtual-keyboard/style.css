@@ -50,3 +50,6 @@
     top: -0.8em;
     left: -0.5em;
   }
+  .highlight{
+    background-color: rgb(145, 176, 243);
+  }
